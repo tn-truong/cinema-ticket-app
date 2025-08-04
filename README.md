@@ -19,7 +19,6 @@
 | Source.cpp | Code chương trình đặt vé |
 | testcases_cinema.xlsx | Danh sách Test Case kiểm thử |
 | bug_report_cinema.xlsx | Báo cáo lỗi đã phát hiện |
-| <img width="1920" height="985" alt="Screenshot (529)" src="https://github.com/user-attachments/assets/d7a84d97-2b94-499b-894a-9fa031ba96ee" /> |
 
 ---
 
